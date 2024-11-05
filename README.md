@@ -49,7 +49,7 @@
 
 <br>
 
-![github graph](https://github-readme-activity-graph.vercel.app/graph?username=jemsrr&theme=react-light)
+![github graph](https://github-readme-activity-graph.vercel.app/graph?username=jemsrr
 <br>
 
 
