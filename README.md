@@ -2,7 +2,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3F00F7&random=false&width=535&lines=%E2%9C%A8+Hey%2C+I'm+Jems+You+are+Welcome!+%F0%9F%8C%9F" alt="Typing SVG" />
 </h1>
 
-### Hi  I'm Jems Rakholiya  😎
+### Hi  I'm Jems Rakholiya  💛😎🤍
 
 
 ## Skilled web developer with expertise in React JS, Next JS, TypeScript, and Node JS. Enjoys learning and working on exciting projects to expand technical knowledge. Passionate about bringing ideas to life and open to new opportunities. Let's connect and explore how I can assist you!.
@@ -29,14 +29,14 @@
 <details align="left">
   <summary>⚡ GitHub Stats</summary>
 
-  <img align="center" alt="jemsrr GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jemsrr&show_icons=true&hide_border=true&theme=radical" />
-  
+  <img align="center" alt="jemsrr GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jemsrr&show_icons=true&hide_border=true" />
+    
 </details>
 
 <details align="left">
   <summary>⚡ Most Used Languages</summary>
 
-  <img align="center" alt="jemsrr GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jemsrr&layout=compact&theme=radical" />
+  <img align="center" alt="jemsrr GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jemsrr&layout=compact" />
 
 </details>
 
